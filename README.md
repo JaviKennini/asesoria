@@ -3,4 +3,8 @@ asesoria chepecarlos
 
 # Contribuidores
 
-*[Cesarin](http://github.com/JaviKennini
+* [Cesarin](http://github.com/JaviKennini
+
+# Lugar
+
+* Colegio Don Bosco
